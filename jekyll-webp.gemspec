@@ -1,4 +1,5 @@
 # coding: utf-8
+require 'date'
 require_relative 'lib/jekyll-webp/version'
 
 Gem::Specification.new do |spec|
